@@ -15,7 +15,7 @@
     padding-right: 10px;
 }
 
-.external_link {
+a.external_link {
     background-color: antiquewhite;
     color: darkgreen;
     border-radius: 5px;
