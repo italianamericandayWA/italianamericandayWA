@@ -1,4 +1,10 @@
 .header{
     position: sticky;
     top: 0;
+    background-color: darkgreen;
+}
+
+.nav {
+    color:antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
