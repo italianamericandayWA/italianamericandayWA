@@ -22,4 +22,20 @@
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
+    box-shadow: inset;
+}
+
+.nav a.external_link {
+    background-color: antiquewhite;
+    color: darkgreen;
+    border-radius: 5px;
+    padding: 5px 12px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    box-shadow: inset;
+}
+
+.nav a.external_link:hover {
+    background-color:bisque;
 }
