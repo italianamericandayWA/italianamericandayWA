@@ -2,10 +2,19 @@
     position: sticky;
     top: 0;
     background-color: darkgreen;
+    padding: 30px 20px;
+    text-align: center;
 }
 
 .nav a{
     color:antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
+    display: inline-block;
+}
+
+.external_link {
+    background-color: antiquewhite;
+    color: darkgreen;
+    border-radius: 5px;
 }
