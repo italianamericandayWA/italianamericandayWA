@@ -54,4 +54,5 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    background-image: url("flag.png");
   }
