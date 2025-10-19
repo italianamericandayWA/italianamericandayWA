@@ -47,3 +47,10 @@
 .h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.banner {
+    width: max-content;
+    height: 30%;
+    position: static;
+    background-color: rgba(0, 0, 0, .3);
+}
