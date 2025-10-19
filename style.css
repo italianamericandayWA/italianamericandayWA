@@ -48,9 +48,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.banner {
-    width:fit-content;
-    height: 100px;
-    position: static;
-    background-color: rgba(0, 0, 0, .3);
-}
+.hero-banner {
+    width: 100vw;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
