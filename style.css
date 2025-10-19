@@ -49,8 +49,8 @@
 }
 
 .banner {
-    width: max-content;
-    height: 30%;
+    width:fit-content;
+    height: 100px;
     position: static;
     background-color: rgba(0, 0, 0, .3);
 }
